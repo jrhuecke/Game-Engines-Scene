@@ -9,6 +9,17 @@ public class CameraSwapper : MonoBehaviour
     public GameObject sceneView;
     public GameObject scriptedView;
 
+    private int current;
+
+    private void Start()
+    {
+        firstPerson.SetActive(false);
+        thirdPerson.SetActive(false);
+        sceneView.SetActive(true);
+        scriptedView.SetActive(false);
+        current = 3;
+    }
+
     void Update()
     {
         //Swaps between cameras on button press 1-4
