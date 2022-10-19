@@ -7,6 +7,8 @@ an evening sky skybox texture because I feel like that gives the room a much mor
 cozy vibe. The main character in  the scene is the blue jay that is chilling on the 
 bed. Birds are super cool.
 
+Video showcases the scene here: https://youtu.be/4t-02Pf3G7s
+
 Objects:
 WALLS/CEILING/FLOOR:
 (+1) Floor is made out of a cube covered with material found from this asset package:
