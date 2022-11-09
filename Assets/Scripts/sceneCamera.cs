@@ -9,6 +9,6 @@ public class sceneCamera : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        transform.LookAt(lookAtTarget);
+        //transform.LookAt(lookAtTarget);
     }
 }
