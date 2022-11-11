@@ -1,3 +1,15 @@
+Assignment Two:
+For the lights I have two point lights for the ceiling light and the lamp, a spotlight
+for the flashlight, an emissive material for the monitors, and a directional light
+for the sun. The lamp and ceiling light are controlled by a light switch button. 
+The particle system I implemented is fog that is outside the windows in order to 
+give the bedroom a Santa Cruz feel.
+
+New video showcasing the scene/lighting/particle system here: https://www.youtube.com/watch?v=-9KHvZWrEkg
+
+
+
+Assignment One:
 The scene I decided to create is a nice one person bedroom. I am in my fourth year of
 college and I have been in a double or triple every year so far (as most people have), 
 so I wanted to daydream a little bit with this project by designing a solid single 
